@@ -1,3 +1,3 @@
-# this is  an unwateed but commited change"
+# Default is "World"
 name = ARGV.first || "Word"
 puts "Hello, #{name}!"
